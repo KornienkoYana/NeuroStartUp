@@ -1,3 +1,4 @@
+# ДЗ по Git: NeuroStartUp
 ![NeuroStartUp](C:\Users\Asus-PC\Downloads\logo.png)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием 
